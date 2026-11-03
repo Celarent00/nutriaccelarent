@@ -28,3 +28,6 @@ __pycache__/
 *.py[cod]
 .venv/
 mcp-server/.venv/
+
+# Environment variables
+.env
