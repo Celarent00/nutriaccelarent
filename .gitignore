@@ -31,3 +31,11 @@ mcp-server/.venv/
 
 # Environment variables
 .env
+
+# ADK session database
+session.db
+*.db-journal
+
+# SQLite databases
+*.sqlite
+*.sqlite3
